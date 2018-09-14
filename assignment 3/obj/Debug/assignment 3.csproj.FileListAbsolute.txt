@@ -1,0 +1,7 @@
+C:\Users\Beheerder\Desktop\Uni\Programming week 2 assignments\assignment 3\bin\Debug\assignment 3.exe.config
+C:\Users\Beheerder\Desktop\Uni\Programming week 2 assignments\assignment 3\bin\Debug\assignment 3.exe
+C:\Users\Beheerder\Desktop\Uni\Programming week 2 assignments\assignment 3\bin\Debug\assignment 3.pdb
+C:\Users\Beheerder\Desktop\Uni\Programming week 2 assignments\assignment 3\obj\Debug\assignment 3.csprojAssemblyReference.cache
+C:\Users\Beheerder\Desktop\Uni\Programming week 2 assignments\assignment 3\obj\Debug\assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\Beheerder\Desktop\Uni\Programming week 2 assignments\assignment 3\obj\Debug\assignment 3.exe
+C:\Users\Beheerder\Desktop\Uni\Programming week 2 assignments\assignment 3\obj\Debug\assignment 3.pdb

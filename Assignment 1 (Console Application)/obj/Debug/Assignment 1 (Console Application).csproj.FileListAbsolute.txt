@@ -1,0 +1,7 @@
+C:\Users\Beheerder\Desktop\Uni\Programming week 2 assignments\Assignment 1 (Console Application)\bin\Debug\Assignment 1 (Console Application).exe.config
+C:\Users\Beheerder\Desktop\Uni\Programming week 2 assignments\Assignment 1 (Console Application)\bin\Debug\Assignment 1 (Console Application).exe
+C:\Users\Beheerder\Desktop\Uni\Programming week 2 assignments\Assignment 1 (Console Application)\bin\Debug\Assignment 1 (Console Application).pdb
+C:\Users\Beheerder\Desktop\Uni\Programming week 2 assignments\Assignment 1 (Console Application)\obj\Debug\Assignment 1 (Console Application).csprojAssemblyReference.cache
+C:\Users\Beheerder\Desktop\Uni\Programming week 2 assignments\Assignment 1 (Console Application)\obj\Debug\Assignment 1 (Console Application).csproj.CoreCompileInputs.cache
+C:\Users\Beheerder\Desktop\Uni\Programming week 2 assignments\Assignment 1 (Console Application)\obj\Debug\Assignment 1 (Console Application).exe
+C:\Users\Beheerder\Desktop\Uni\Programming week 2 assignments\Assignment 1 (Console Application)\obj\Debug\Assignment 1 (Console Application).pdb
